@@ -18,6 +18,6 @@ This view uses interactive and visual features to describe overall analysis from
 Visual representations: Map, Line plot, Scatter plot, Pie plot, Bar race chart, Fishbone chart, Bubble plot, Word cloud, radar timeline.
 Interactivity: Zooming, Panning, Hover, Click, Drop down, Sliders, Linking of views
 
-The visualisations have been rendered using the libraries of D3.js and amCharts. The web application is hosted using Flask in python. The level of interactivity is ~1s per action. All the plots can be downloded in the form of image or data. The report details the findings from the visualisation and interaction.
+The visualisations have been rendered using the libraries of D3.js and amCharts. The web application is hosted using Flask in python. The data in some of the visualizations is pre-processed using Pandas. The level of interactivity is ~1s per action. All the plots can be downloded in the form of image or data. The report details the findings from the visualisation and interaction.
 
 
